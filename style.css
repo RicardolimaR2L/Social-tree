@@ -15,9 +15,13 @@ html {
   --primary-color-dark: #364FC7; 
 }
 
-body.gren{
-  background-color: yellowgreen;
-  
+body.dark-pink{
+  background-color: #2f0311;
+  --bg-color: #EDF2FF;
+  --text-color: #f1f1f1;
+  --primary-color:#D6336C;;
+  --primary-color-dark: #e7d8d8; 
+
 }
 body.dark-blue {
   --bg-color: #00082F;
